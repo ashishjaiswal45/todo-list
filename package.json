@@ -12,8 +12,8 @@
     "deploy": "gh-pages -d build"
   },
 
-  "homepage": "http://yourusername.github.io/your-repo-name",
-  
+  "homepage": "https://ashishjaiswal45.github.io/todo-list/",
+
   "dependencies": {
     "gh-pages": "^6.1.1",
     "react": "^18.3.1",
