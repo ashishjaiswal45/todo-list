@@ -18,7 +18,6 @@ function App() {
     }
   }, [])
   
-
   const saveToLS = (params) => {
     localStorage.setItem("todos", JSON.stringify(todos))
   }
@@ -66,7 +65,6 @@ function App() {
     saveToLS()
   }
   
-
   return (
     < >
     <Navbar/> 
