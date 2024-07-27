@@ -12,7 +12,7 @@
     "deploy": "gh-pages -d build"
   },
 
-  "homepage": "https://ashishjaiswal45.github.io/todo-list/",
+  "homepage": "https://ashishjaiswal45.github.io/todo-list/build",
 
   "dependencies": {
     "gh-pages": "^6.1.1",
