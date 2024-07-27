@@ -11,6 +11,9 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
+
+  "homepage": "http://yourusername.github.io/your-repo-name",
+  
   "dependencies": {
     "gh-pages": "^6.1.1",
     "react": "^18.3.1",
